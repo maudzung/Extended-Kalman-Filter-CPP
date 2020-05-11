@@ -2,8 +2,12 @@
 
 In this project I utilized a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
-## Important Dependencies
+A great note could be found [here](https://medium.com/intro-to-artificial-intelligence/extended-kalman-filter-simplified-udacitys-self-driving-car-nanodegree-46d952fce7a3)
+## High level architecture of Extended Kalman Filter
 
+![high level architecture](./Docs/High_level_architecture.png)
+
+## Important Dependencies
 * cmake >= 3.5
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
