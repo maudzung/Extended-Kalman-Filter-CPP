@@ -51,5 +51,9 @@ The Root Mean Square Error:
 - Vx: 0.4513
 - Vy: 0.4399
 
+The full demostrations are available at:
+- [Dataset 1](https://youtu.be/HbxQKSifevc)
+- [Dataset 2](https://youtu.be/W-Kf2NG4tMw)
+
 ## Generating Additional Data
 See the [utilities repo](https://github.com/udacity/CarND-Mercedes-SF-Utilities) for Matlab scripts that can generate additional data.
